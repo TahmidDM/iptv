@@ -461,12 +461,14 @@ http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://stvlive.net:8080/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha (FTP)
+http://10.2.2.10:8088/302/index.m3u8?token=a07d6701a1b4b575043d8d7018085cb11c445f77-235267fb1e92c1c8e6de186fedeadc0b-1751281870-1751278270
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla (Toffee)
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla (FTP)
+http://10.2.2.10:8088/301/index.m3u8?token=a0b2860526d20a6d585edba5bbc8458057004bcd-dffa6a17290a93333f0fe7c2cd823478-1751281815-1751278215
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 http://38.96.178.201/live/ColorsBangla/index.m3u8
