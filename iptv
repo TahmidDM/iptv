@@ -470,6 +470,11 @@ https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla (FTP)
 http://10.2.2.10:8088/301/index.m3u8?token=a0b2860526d20a6d585edba5bbc8458057004bcd-dffa6a17290a93333f0fe7c2cd823478-1751281815-1751278215
 
+#EXTINF:-1 tvg-id="18" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927447544.png", ZEE BANGLA vv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "iJl4_10nGv6Bagovznpdeg", "kid": "bMqG69EVR2i71kGN8QHQyg"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/6f0c2ecf1fc24304a006c38e08662b3d/index.mpd
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 http://38.96.178.201/live/ColorsBangla/index.m3u8
 
